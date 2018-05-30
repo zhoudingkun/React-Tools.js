@@ -1,1 +1,4 @@
 ﻿前端项目中常用的工具
+
+原生写移动端，用这套配置还要全局安装parcel	npm install -g parcel-bundler
+默认iphone6设计稿	font-size 37.5
