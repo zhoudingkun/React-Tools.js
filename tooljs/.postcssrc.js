@@ -9,7 +9,7 @@ module.exports = {
     	browsers: ['iOS >= 7', 'Android >= 4.1']
     },
     "postcss-px2rem-exclude": {
-    	remUnit: 75,
+      	remUnit: 100,
         exclude: /node_modules/i,
         remPrecision: 3
     }

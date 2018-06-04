@@ -2,7 +2,7 @@
   "name": "wshifu-h5",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "http://git.wanshifu.com/ios/wshifu-h5.git",
+  "repository": "https://github.com/zhoudingkun/React-Tools.js.git",
   "author": "sunny <yanlihui@wshifu.com>",
   "license": "MIT",
   "scripts": {
